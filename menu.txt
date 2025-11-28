@@ -1,0 +1,3 @@
+Makanan;nasi;3000.0;dish
+Minuman;air putih;2000.0;biasa
+Diskon;diskon total;2000.0;10.0
